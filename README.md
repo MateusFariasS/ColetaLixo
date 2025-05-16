@@ -1,11 +1,11 @@
 ## ColetaLixo
 Simulador de coleta de lixo na cidade de Teresina, baseado em programação orientada a objetos
 
-♻️ Simulador de Coleta de Lixo Urbano
+♻️ `Simulador de Coleta de Lixo Urbano`
 Este projeto é um simulador orientado a eventos para o processo de coleta de lixo urbano em uma cidade de médio porte. A simulação abrange desde a coleta nos bairros até o envio dos resíduos ao aterro sanitário, passando por estações de transferência. O objetivo principal é analisar o fluxo logístico, otimizar recursos e compreender gargalos operacionais no sistema de coleta de resíduos sólidos.
 --
 
-## 🚛 Funcionalidades
+## `🚛 Funcionalidades`
 ✅ Simulação orientada a eventos com controle de tempo.
 
 🏘️ Geração de lixo por bairros com taxas específicas.
@@ -22,7 +22,7 @@ Este projeto é um simulador orientado a eventos para o processo de coleta de li
 
 --
 
-## 🛠️ Tecnologias Utilizadas
+## `🛠️ Tecnologias Utilizadas`
 Java 17 (ou versão compatível)
 
 Estrutura modular com classes separadas por responsabilidade
@@ -35,7 +35,9 @@ IDE recomendada: IntelliJ IDEA ou Eclipse
 
 --
 
-## 📂 Estrutura do Projeto
+## `📂 Estrutura do Projeto`
+
+```
 bash
 Copiar
 Editar
@@ -50,10 +52,10 @@ src/
 │   └── Simulador.java             # Controlador geral da simulação
 ├── estruturas/                    # Estruturas de dados auxiliares
 │   └── ListaDuplamenteLigadaCircular.java
-
+```
 --
 
-## 📌 Objetivos do Projeto
+## `📌 Objetivos do Projeto`
 Simular de forma realista o processo de coleta urbana.
 
 Identificar limitações logísticas (tempo, carga, tráfego).
@@ -64,7 +66,7 @@ Aplicar conceitos de estrutura de dados, POO e simulação de eventos.
 
 --
 
-## 📚 Inspiração
+## `📚 Inspiração`
 Este projeto foi inspirado na dinâmica de coleta urbana da cidade de Teresina, com adaptações acadêmicas para fins de simulação computacional.
 
 --
